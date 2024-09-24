@@ -1,0 +1,17 @@
+D:\Study\9-Repository pattern with unit of work\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net8.0\RepositoryPatternWithUOW.EF.deps.json
+D:\Study\9-Repository pattern with unit of work\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net8.0\RepositoryPatternWithUOW.EF.runtimeconfig.json
+D:\Study\9-Repository pattern with unit of work\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net8.0\RepositoryPatternWithUOW.EF.dll
+D:\Study\9-Repository pattern with unit of work\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net8.0\RepositoryPatternWithUOW.EF.pdb
+D:\Study\9-Repository pattern with unit of work\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net8.0\RepositoryPatternWithUOW.EF.csproj.AssemblyReference.cache
+D:\Study\9-Repository pattern with unit of work\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net8.0\RepositoryPatternWithUOW.EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\9-Repository pattern with unit of work\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net8.0\RepositoryPatternWithUOW.EF.AssemblyInfoInputs.cache
+D:\Study\9-Repository pattern with unit of work\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net8.0\RepositoryPatternWithUOW.EF.AssemblyInfo.cs
+D:\Study\9-Repository pattern with unit of work\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net8.0\RepositoryPatternWithUOW.EF.csproj.CoreCompileInputs.cache
+D:\Study\9-Repository pattern with unit of work\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net8.0\RepositoryPatternWithUOW.EF.dll
+D:\Study\9-Repository pattern with unit of work\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net8.0\refint\RepositoryPatternWithUOW.EF.dll
+D:\Study\9-Repository pattern with unit of work\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net8.0\RepositoryPatternWithUOW.EF.pdb
+D:\Study\9-Repository pattern with unit of work\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net8.0\RepositoryPatternWithUOW.EF.genruntimeconfig.cache
+D:\Study\9-Repository pattern with unit of work\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net8.0\ref\RepositoryPatternWithUOW.EF.dll
+D:\Study\9-Repository pattern with unit of work\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net8.0\RepositoryPatternWithUOW.Core.dll
+D:\Study\9-Repository pattern with unit of work\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net8.0\RepositoryPatternWithUOW.Core.pdb
+D:\Study\9-Repository pattern with unit of work\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net8.0\Reposito.21B104BF.Up2Date
